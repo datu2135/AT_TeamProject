@@ -1,9 +1,8 @@
 using UnityEngine;
 
-public class Test2 : MonoBehaviour
+public class SceneManager : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    //  Hellow
     void Start()
     {
         
